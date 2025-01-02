@@ -47,7 +47,7 @@ A small basic template for patient detail management
 ### Technologies Used
 - Typescript, Next.js, Node.js, MongoDB
 
-## C. Frontend Websites
+## D. Frontend Websites
 
 [Repository Link](https://github.com/groom115/azimuth-page/tree/master)
 
