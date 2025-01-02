@@ -2,7 +2,7 @@
 
 The repo contains all the freelancing projects I have worked till date.
 
-## Optimeleon (Script Injection Website)
+## A. Optimeleon (Script Injection Website)
 
 [Repository Link](https://github.com/groom115/Optimeleon/tree/master)
 
@@ -18,7 +18,7 @@ Optimeleon is a web application designed to generate custom scripts tailored to 
 - [Typescript, Next.js, Node.js, MongoDB, prisma]
 
 
-## DocAI (An AI Tool for Patients)
+## B. DocAI (An AI Tool for Patients)
 
 [Repository Link](https://github.com/ishaanLuke24/docAI)
 
@@ -32,5 +32,19 @@ DocAI is an advanced AI-powered web application designed to assist patients by p
 
 ### Technologies Used
 - [Typescript, Next.js, Node.js, MongoDB, prisma, Retell.ai]
+
+## C. Patient detail management app
+
+[Repository Link](https://github.com/Ishaan28malik/small-app))
+
+### Description
+A small basic template for patient detail management
+
+### Features
+- Add, update, and view patient details in a streamlined interface.  
+- Secure storage of patient information with basic data handling capabilities. 
+
+### Technologies Used
+- [Typescript, Next.js, Node.js, MongoDB]
 
 
