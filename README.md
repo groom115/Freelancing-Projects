@@ -15,4 +15,22 @@ Optimeleon is a web application designed to generate custom scripts tailored to 
 - Simplified workflow for injecting dynamic functionalities.
 
 ### Technologies Used
-- [Add the technologies here, e.g., Python, JavaScript, etc.]
+- [Typescript, Next.js, Node.js, MongoDB, prisma]
+
+
+## DocAI (An AI Tool for Patients)
+
+[Repository Link](https://github.com/ishaanLuke24/docAI)
+
+### Description
+DocAI is an advanced AI-powered web application designed to assist patients by providing tailored healthcare insights and recommendations. The tool leverages artificial intelligence to analyze patient data, offering personalized support for better health management.
+
+### Features
+- AI-driven insights and recommendations for patients.
+- User-friendly interface for easy interaction and accessibility.
+- Also implemented real time voice assistant using retell.ai
+
+### Technologies Used
+- [Typescript, Next.js, Node.js, MongoDB, prisma, Retell.ai]
+
+
