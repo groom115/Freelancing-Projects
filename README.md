@@ -15,7 +15,7 @@ Optimeleon is a web application designed to generate custom scripts tailored to 
 - Simplified workflow for injecting dynamic functionalities.
 
 ### Technologies Used
-- [Typescript, Next.js, Node.js, MongoDB, prisma]
+- Typescript, Next.js, Node.js, MongoDB, prisma
 
 
 ## B. DocAI (An AI Tool for Patients)
@@ -31,11 +31,11 @@ DocAI is an advanced AI-powered web application designed to assist patients by p
 - Also implemented real time voice assistant using retell.ai
 
 ### Technologies Used
-- [Typescript, Next.js, Node.js, MongoDB, prisma, Retell.ai]
+- Typescript, Next.js, Node.js, MongoDB, prisma, Retell.ai
 
 ## C. Patient detail management app
 
-[Repository Link](https://github.com/Ishaan28malik/small-app))
+[Repository Link](https://github.com/Ishaan28malik/small-app)
 
 ### Description
 A small basic template for patient detail management
@@ -45,6 +45,16 @@ A small basic template for patient detail management
 - Secure storage of patient information with basic data handling capabilities. 
 
 ### Technologies Used
-- [Typescript, Next.js, Node.js, MongoDB]
+- Typescript, Next.js, Node.js, MongoDB
+
+## C. Frontend Websites
+
+[Repository Link](https://github.com/groom115/azimuth-page/tree/master)
+
+### Description
+Created webpage for different clients
+
+### Technologies Used
+- Typescript, Next.js, React.
 
 
